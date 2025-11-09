@@ -80,6 +80,7 @@
         <h2>🌍 Visualisasi Data Kecamatan Sleman</h2>
         <p class="text-muted">Pemetaan dan Data Statistik Kecamatan Sleman</p>
         <p class="text-muted">Anastasia Anindhita A.</p>
+        <p class="text-muted">24/540610/SV/24885</p>
     </div>
 
     <!-- Peta -->
